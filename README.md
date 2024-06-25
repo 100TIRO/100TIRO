@@ -2,7 +2,7 @@
 
 Meu nome é Matheus Ferreira
 
--Estou estudandao na alura
+-Estou estudando na alura
 
 -Estou me desenvolvendo a linguagem javaScript
 
