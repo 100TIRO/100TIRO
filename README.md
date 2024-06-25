@@ -8,7 +8,7 @@ Meu nome é Matheus Ferreira
 
 -Utilizo esse espaço para  minha organização e compartilhamento dos meus projetos desenvolvido
 
- ### Voçe pode entrar em contato comigo através do 📪
+ ### Você pode entrar em contato comigo através do 📪
  00001085184705sp@al.educacao.sp.gov.br
 
  ![](https://media1.tenor.com/m/1ozg43crJ5EAAAAC/emoji-3d.gif)
